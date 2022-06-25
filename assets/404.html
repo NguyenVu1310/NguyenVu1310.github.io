@@ -1,0 +1,17 @@
+---
+layout: page
+title: "404: Page not found"
+permalink: /404.html
+
+redirect_from:
+- /norobots/
+- /assets/
+- /posts/
+---
+
+{% include lang.html %}
+
+<div class="lead">
+  <p>{{site.data.locales[lang].not_found.statment }}</p>
+  <p>Please click here to return to the <a href="/index.html" target="_self" rel="noopener">home</a> page!!!</p>
+</div>
