@@ -4,28 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+<!--
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
-<!--
-<div style="background-color: #afb0b1">Highlighted text</div>
-<mark style="background-color: #FFFF00">highlighted text</mark>
-<br>[Contact Us](mailto:admin@cloudhadoop.com)
-
-
-<form action="https://formkeep.com/f/97c12a8c1b3d"
-      accept-charset="UTF-8"
-      enctype="multipart/form-data"
-      method="POST">
-    <input type="text" id="fname" name="name" placeholder="Your name..." style="margin-left: 10%; width:93%; ; "><br>
-    <input type="hidden" name="utf8" value="✓">
-    <input type="email" id="email-address" name="email" placeholder="Your mail..." style="margin-left: 100px; width:93%;"><br>    
-    <textarea id="subject" name="subject" placeholder="Write something..." style="margin-left: 100px; width:93%;height:75px"></textarea><br> 
-    <button type="submit">Submit</button>
-</form>
-
-<label for="fname">Your name:</label><br>
-<label for="email-address">Email Address:</label><br>
-<label for="subject">Tell Me About Question</label><br>
 -->
 
 
